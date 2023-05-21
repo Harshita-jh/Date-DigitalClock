@@ -1,0 +1,12 @@
+
+body{
+    text-align: center;
+    margin: auto;
+    padding-top: 150px;
+    /* background-color: ; */
+    }
+    hr{
+        height:2px;
+        background-color:black;
+        width: 200px;
+    }
